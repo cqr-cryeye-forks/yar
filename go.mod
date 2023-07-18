@@ -1,4 +1,4 @@
-module github.com/nielsing/yar
+module github.com/cqr-cryeye-forks/yar
 
 go 1.13
 
