@@ -1,7 +1,7 @@
 # (Y)et (A)nother (R)obber: Sail ye seas of git for booty is to be found
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nielsing/yar/master/images/yargopher3.png" alt="Yar the pirate gopher"/>
+  <img src="https://raw.githubusercontent.com/cqr-cryeye-forks/yar/master/images/yargopher3.png" alt="Yar the pirate gopher"/>
 </p>
 
 Sail ho! Yar is a tool for plunderin' organizations, users and/or repositories...
@@ -14,8 +14,8 @@ Yar searches for secrets either by regex, entropy or both, the choice is yours! 
 
 ## Installation
 1. Make sure you have the GOPATH environment variable set in your preferred shell rc and that the $GOPATH/bin directory is in your PATH. More info [here](https://golang.org/doc/code.html#GOPATH).
-2. You can install this by running `go get github.com/nielsing/yar`
-3. Or you can download the latest release of Yar for your operating system [here](https://github.com/nielsing/yar/releases). Just make sure you have the yarconfig.json file as well in $GOPATH/src/github.com/nielsing/yar/config.
+2. You can install this by running `go get github.com/cqr-cryeye-forks/yar`
+3. Or you can download the latest release of Yar for your operating system [here](https://github.com/cqr-cryeye-forks/yar/releases). Just make sure you have the yarconfig.json file as well in $GOPATH/src/github.com/cqr-cryeye-forks/yar/config.
 
 ## Usage
 ### Want to search for secrets within an organization?

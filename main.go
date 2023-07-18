@@ -4,7 +4,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/nielsing/yar/robber"
+	"github.com/cqr-cryeye-forks/yar/robber"
 )
 
 func main() {
